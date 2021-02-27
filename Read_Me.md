@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting Theater Campaign
 
 ## Project Overview
 
